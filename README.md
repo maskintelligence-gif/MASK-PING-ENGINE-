@@ -1541,6 +1541,6 @@ Commercial AI Add-ons Available:
 
 Ready to deploy AI-powered monitoring? Start with the Quick Start (5 Minutes) section!
 
-For AI/ML consulting and enterprise support, contact our AI team at ai@enterprise-monitor.com
+For AI/ML consulting and enterprise support, contact our team at team@maskhosting.online
 
 Star the repository ⭐ to stay updated with the latest AI features!
